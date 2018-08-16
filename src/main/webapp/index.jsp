@@ -4,6 +4,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<title>Crud App</title>
+	<title>first page</title>
 </head>
 <body>
     <jsp:forward page="/StudentServlet.do?action=listStudent"></jsp:forward>
